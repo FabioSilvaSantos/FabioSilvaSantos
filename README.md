@@ -12,18 +12,21 @@
 📫 [ Acesse o meu Linkedin](https://www.linkedin.com/in/fabio-silva-santos-2577b3144/)
 ------
 ## Minhas Tecnologias
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px"/>
+</p>
 
 ------
 | Cursos | Curriculos |
-|-------- |           |
-|         |           |
+|-------- |---------  |
+| HTML    |           |
+| CSS     |           |
+| JavaScript |        |
 
 ----------
 
